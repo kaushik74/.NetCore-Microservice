@@ -9,6 +9,8 @@ D:\Microservices\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.API.dll
 D:\Microservices\Employee\Employee\bin\Debug\netcoreapp3.1\Employee.API.pdb
 D:\Microservices\Employee\Employee\bin\Debug\netcoreapp3.1\AutoMapper.dll
 D:\Microservices\Employee\Employee\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Microservices\Employee\Employee\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Microservices\Employee\Employee\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 D:\Microservices\Employee\Employee\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 D:\Microservices\Employee\Employee\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 D:\Microservices\Employee\Employee\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -45,6 +47,9 @@ D:\Microservices\Employee\Employee\bin\Debug\netcoreapp3.1\runtimes\win\lib\netc
 D:\Microservices\Employee\Employee\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\Microservices\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.API.AssemblyInfoInputs.cache
 D:\Microservices\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.API.AssemblyInfo.cs
+D:\Microservices\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.API.csproj.CoreCompileInputs.cache
+D:\Microservices\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Microservices\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.API.MvcApplicationPartsAssemblyInfo.cache
 D:\Microservices\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.API.RazorTargetAssemblyInfo.cache
 D:\Microservices\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.API.csproj.CopyComplete
 D:\Microservices\Employee\Employee\obj\Debug\netcoreapp3.1\staticwebassets\Employee.API.StaticWebAssets.Manifest.cache
@@ -52,9 +57,4 @@ D:\Microservices\Employee\Employee\obj\Debug\netcoreapp3.1\staticwebassets\Emplo
 D:\Microservices\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.API.dll
 D:\Microservices\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.API.pdb
 D:\Microservices\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.API.genruntimeconfig.cache
-D:\Microservices\Employee\Employee\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-D:\Microservices\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.API.csproj.CoreCompileInputs.cache
-D:\Microservices\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.API.MvcApplicationPartsAssemblyInfo.cs
-D:\Microservices\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.API.MvcApplicationPartsAssemblyInfo.cache
-D:\Microservices\Employee\Employee\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 D:\Microservices\Employee\Employee\obj\Debug\netcoreapp3.1\Employee.API.csprojAssemblyReference.cache
