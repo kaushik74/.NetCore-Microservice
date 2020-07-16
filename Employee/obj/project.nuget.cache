@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GuSMmTKDS8P0xhnF92/bNRzLIaiDORKT6rj8m124bXpv+C9tydOiDreTEI/pbymBnTnW1/ziFfYOoq6pO0AYzA==",
+  "dgSpecHash": "Pwdc+OwxfO+H0ScsKR0oiJYTx/zOn/bdCVvqBj9kkznuBz77mASEySgR5d1mlze+d00+vQCf1HoMPJ3OgoJrzw==",
   "success": true,
-  "projectFilePath": "D:\\Microservices\\Employee\\Employee\\Employee.API.csproj",
+  "projectFilePath": "D:\\Microservices\\Employee\\Employee\\Employee.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sreenivas\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\sreenivas\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
