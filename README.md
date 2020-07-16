@@ -5,7 +5,7 @@ Microservice Architecture (MSA) is an architectural style of designing applicati
 A microservices architecture consists of a collection of small, autonomous services. Each service is self-contained and should implement a single business capability. 
 
 In this article I will discuss creating microservices using .net core step by step. I would like to make this article as multi part article with below topics.
-1.	Dockizing the API
+1.	[Dockizing the API] (https://github.com/kaushik74/dockerized-dotnet-microservice)
 2.	Using RabbitMQ for .Net Core Microservices
 3.	Using Redis cache in .Net Core Microservices
 4.	Distributed Transactions
