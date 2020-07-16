@@ -5176,11 +5176,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Microservices\\Employee\\Employee\\Employee.csproj",
+      "projectUniqueName": "D:\\Microservices\\dockerize-dotnetcore-microservice\\Employee\\Employee\\Employee.csproj",
       "projectName": "Employee",
-      "projectPath": "D:\\Microservices\\Employee\\Employee\\Employee.csproj",
+      "projectPath": "D:\\Microservices\\dockerize-dotnetcore-microservice\\Employee\\Employee\\Employee.csproj",
       "packagesPath": "C:\\Users\\sreenivas\\.nuget\\packages\\",
-      "outputPath": "D:\\Microservices\\Employee\\Employee\\obj\\",
+      "outputPath": "D:\\Microservices\\dockerize-dotnetcore-microservice\\Employee\\Employee\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

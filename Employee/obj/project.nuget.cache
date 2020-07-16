@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pwdc+OwxfO+H0ScsKR0oiJYTx/zOn/bdCVvqBj9kkznuBz77mASEySgR5d1mlze+d00+vQCf1HoMPJ3OgoJrzw==",
+  "dgSpecHash": "ULGozlxXBcR2T/+JuBKd0kREIghvwzJn+jEwSJEz28uJo5x/71qU4IrQ3ub7mC7EzF1GKHnLdVef8dj+v3C0MA==",
   "success": true,
-  "projectFilePath": "D:\\Microservices\\Employee\\Employee\\Employee.csproj",
+  "projectFilePath": "D:\\Microservices\\dockerize-dotnetcore-microservice\\Employee\\Employee\\Employee.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sreenivas\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\sreenivas\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
