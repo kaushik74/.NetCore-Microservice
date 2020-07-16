@@ -10,3 +10,6 @@ In this article I will discuss creating microservices using .net core step by st
 3.	Using Redis cache in .Net Core Microservices
 4.	Distributed Transactions
 5.	Unit Testing and DevOps capabilities.
+
+To get the step by step on Hands on Micro services using .Net Core with Swagger integration visit below link.
+https://medium.com/@sreenivas.kaushik/hands-on-micro-services-using-net-core-with-swagger-integration-1d9b7cd6c5d3
